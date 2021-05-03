@@ -19,4 +19,8 @@ Am Nachmittag hatte ich dann den auftrag, einen Würfel aus 7mm langen Kupferdr�
 
 **Tag 2**\
 Noch etwa eine Stunde arbeitete ich daran, dem würfel schönere lötstellen zu verpassen. als ich dies dann bei 2 Ecken geschafft hatte, bekam ich eine leiterlatte, wie man sie in Fernsehern vorfindet. Nach einer kurzen erklährung wie man Lötstellen lösst, sollte ich 20 lötstellen Lösen die volbrachte ich dan auch ziemlich gut.(Nur bei einer stelle hielt ich den Kolben etwas zu lange darauf). Danach sollte ich die Teile wider Verlöten, dies schaffte ich dann auch recht gut. Als letztes ging es dann noch zu einem Kunden der probleme hatte mit dem Ton seines Fernsehers. Dies lag daran, dass bei seiner TvBox die Buchse kaputt war. Dieses problem konnte allerdings mit einer neuen Box behoben werden. Der zweite Morgen war vorbei.\
-Am Nachmittag bekam ich als erstes einen Test. Der war aber nicht riesig. Mein Problem beim test war vorallem dass ich das Ohmsche gesetz nicht kannte. (U = R x I) . Danach sollte ich ein "Kundengespräch" Vorbereiten, bei dem mein vorgesetzter den kunden verkörperte. Also recherchierte ich die specs des Fernsehers den ich "vekaufen" sollte.
+Am Nachmittag bekam ich als erstes einen Test. Der war aber nicht riesig. Mein Problem beim test war vorallem dass ich das Ohmsche gesetz nicht kannte. (U = R x I) . Danach sollte ich ein "Kundengespräch" Vorbereiten, bei dem mein vorgesetzter den kunden verkörperte. Also recherchierte ich die specs des Fernsehers den ich "vekaufen" sollte. Zwischendurch Lernte ich noch wie man einen Fernseher in den Hotelmodus versetzt. dann kam das "Verkaufsgespräch". Dies, so wie ich am ende erfuhr tat ich ziemlich gut ausser einem satz den ich ein bischen ungeschickt Formuliert hatte. 
+
+
+
+**Fazit**
