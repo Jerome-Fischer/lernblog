@@ -9,4 +9,4 @@ description = "Ich absolvierte eine 2 tägige Schnupperlehre als Multimediaelekt
 +++
 # Schnuppern Multimediaelektroniker
 
-Am 29. und 30 April war ich snuppern als Multimediaelektroniker im Ep:Mühle.
+Am 29. und 30 April war ich snuppern als Multimediaelektroniker im Ep:Mühle. Ich musste erst um 8:30 auf der Matte stehen und hatte 2 Stunden Mittagspause. Dafür dauerte der Nachmittag bis um 18:30. So kam ich auf einen 8 Stunden Tag.
