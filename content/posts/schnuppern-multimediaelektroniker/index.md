@@ -28,7 +28,7 @@ Noch etwa eine Stunde arbeitete ich daran, dem Würfel schönere Lötstellen zu 
 ![Quelle: www-erzetich-com](soldering-3280085__340.jpg "Leiterplatte beim Löten")
 
 \
-Am Nachmittag bekam ich als erstes einen Test. Der war aber nicht riesig. Mein Problem beim Test war vorallem, dass ich das Ohmsche gesetz nicht kannte. (U = R x I) . Danach sollte ich ein "Kundengespräch" vorbereiten, bei dem mein Vorgesetzter den kunden verkörperte. Also recherchierte ich die Specs des Fernsehers den ich "vekaufen" sollte. Zwischendurch lernte ich noch wie man einen Fernseher in den Hotelmodus versetzt. Dann kam das "Verkaufsgespräch". Dies, so wie ich am Ende erfuhr, tat ich ziemlich gut. Ausser einem Satz, den ich ein bischen ungeschickt Formulierte.
+Am Nachmittag bekam ich als erstes einen Test. Der war aber nicht riesig. Mein Problem beim Test war vorallem, dass ich das Ohmsche gesetz nicht kannte. (U=RxI) . Danach sollte ich ein "Kundengespräch" vorbereiten, bei dem mein Vorgesetzter den kunden verkörperte. Also recherchierte ich die Specs des Fernsehers den ich "vekaufen" sollte. Zwischendurch lernte ich noch wie man einen Fernseher in den Hotelmodus versetzt. Dann kam das "Verkaufsgespräch". Dies, so wie ich am Ende erfuhr, tat ich ziemlich gut. Ausser einem Satz, den ich ein bischen ungeschickt Formulierte.
 
 
 
