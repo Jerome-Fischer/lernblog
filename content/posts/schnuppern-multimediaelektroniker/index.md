@@ -1,7 +1,7 @@
 +++
 title = "Schnuppern Multimediaelektroniker"
 date = "2021-05-03"
-draft = false
+draft = true
 pinned = false
 tags = ["Schnuppern", "Multimediaelektroniker"]
 image = "ep-mühle.png"
