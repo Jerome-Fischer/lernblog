@@ -10,5 +10,3 @@ description = "Ich absolvierte eine 2 tägige Schnupperlehre als Multimediaelekt
 `<h1>Schnuppern Multimediaelektroniker<h1>`
 
 `<p>Am 29. und 30 April war ich snuppern als Multimediaelektroniker im Ep:Mühle.<br>`
-
-``
