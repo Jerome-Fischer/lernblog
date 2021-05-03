@@ -17,4 +17,5 @@ Am Nachmittag hatte ich dann den auftrag, einen Würfel aus 7mm langen Kupferdr�
 
 
 
-**Tag 2**
+**Tag 2**\
+Noch etwa eine Stunde arbeitete ich daran, dem würfel schönere lötstellen zu verpassen. als ich dies dann bei 2 Ecken geschafft hatte, bekam ich eine leiterlatte, wie man sie in Fernsehern vorfindet. Nach einer kurzen erklährung wie man Lötstellen lösst, sollte ich 20 lötstellen Lösen die volbrachte ich dan auch ziemlich gut.(Nur bei einer stelle hielt ich den Kolben etwas zu lange darauf). danach sollte ich die teile wider Verlöten dies schaffte ich dann auch recht gut.
