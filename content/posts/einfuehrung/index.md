@@ -1,7 +1,7 @@
 +++
 title = "Einführung"
 date = "2019-05-28"
-draft = false
+draft = true
 pinned = false
 tags = ["Anleitung", "Lernblog"]
 image = "/img/default-image.png"
