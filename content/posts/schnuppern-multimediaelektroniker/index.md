@@ -23,4 +23,5 @@ Am Nachmittag bekam ich als erstes einen Test. Der war aber nicht riesig. Mein P
 
 
 
-**Fazit**
+**Fazit**\
+Ich bin mir noch unschlüssig. So wie ich das gesehen habe, besteht der Beruf viel mehr aus Kundenberatung und Computertabellen als ich gedacht habe. Vieleicht müsste ich den Beruf Multimediaelektroniker nochmal schnuppern gehen, aber irgendwo wo der Fokus mehr auf Computern und weniger auf Fernsehern liegt.
