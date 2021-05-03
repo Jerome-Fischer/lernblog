@@ -9,7 +9,7 @@ description = "Ich absolvierte eine 2 tägige Schnupperlehre als Multimediaelekt
 +++
 # Schnuppern Multimediaelektroniker
 
-Am 29. und 30 April 2021 war ich snuppern als Multimediaelektroniker im Ep:Mühle. Ich musste erst um 8:30 auf der Matte stehen und hatte 2 Stunden Mittagspause. Dafür dauerte der Nachmittag bis um 18:30. So kam ich auf einen 8 Stunden Tag.
+Am 29. und 30 April 2021 war ich snuppern als Multimediaelektroniker im Ep:Mühle Utzenstorf. Ich musste erst um 8:30 auf der Matte stehen und hatte 2 Stunden Mittagspause. Dafür dauerte der Nachmittag bis um 18:30. So kam ich auf einen 8 Stunden Tag.
 
 Tag 1\
-Zu beginn bekam ich einen Karton mit einem noch neu verpackten Fernseher, der im Laden ausgestellt werden sollte.
+Zu beginn bekam ich einen Karton mit einem noch neu verpackten Fernseher, der im Laden ausgestellt werden sollte. Die für mich Verantwortentliche Person, sagte nur das ich versuchen sollte dem Fernseher die halterung an zu montieren. Dies gelang mir dann auch ohne Probleme. Dann programierte ich die Senderliste neu, dass heisst, ich ordnete die etwa 135 Sender expliziten Zahlen zu. Danach schraubte ich noch 2 Fernseher zusammen, der erste Morgen war vorbei.
