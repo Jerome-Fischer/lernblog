@@ -14,3 +14,5 @@ Heute begann ich damit, *meine eigenes Logo* zu kreieren. Zuerst musste ich mir 
 Ich begann also damit, ein Kunai (Anime: Naruto) in Adobe Ilustrator zu kreieren die ging mehr oder weniger recht gut, und ich konnte dabei viel neues Lernen. Der Griff erinert dabei ganz bewusst an den Anime "Hunter x Hunter." 
 
 ![Kunai](vektorkunai.svg)
+
+Danach wollte ich die Verzerte note machen, die Stark an Metal Musik errinnern sollte.
