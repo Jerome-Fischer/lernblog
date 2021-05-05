@@ -15,4 +15,6 @@ Ich begann also damit, ein Kunai (Anime: Naruto) in Adobe Ilustrator zu kreieren
 
 ![Kunai](vektorkunai.png)
 
-Danach wollte ich die Verzerte Note machen, die Stark an Metal Musik errinnern sollte. ich fand jedoch keine gute vorlage und selber brachte ich es auch nicht zu stande. dan etschied ich mich für eine eher simplere "Metal Hand".
+Danach wollte ich die Verzerte Note machen, die Stark an Metal Musik errinnern sollte. ich fand jedoch keine gute vorlage und selber brachte ich es auch nicht zu stande. dan etschied ich mich für eine eher simplere "Metal Hand". 
+
+![Metal Hand](hand.png)
