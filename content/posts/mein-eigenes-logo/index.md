@@ -19,6 +19,8 @@ Danach wollte ich die verzzerte Note machen, die stark an Metal Musik errinnern 
 
 ![Metal Hand](hand.png)
 
-Als ich dies geschafft hatte, wollte ich die beiden designs schon mal zusammen bringen. Wie man unten sehen kann. Was jetzt noch fehlt ist etwas, dass meine Interessen für Computer und Gaming darstellt. Für das Interresse an Computern packe ich alles in einen Bildschirm. Für den Gaming part, könnte ich noch etwas auf die rechte seite klatschen. Vorzugsweise etwas im zusammenhang mit der Videospielreihe "Assassins Creed". 
+Als ich dies geschafft hatte, wollte ich die beiden designs schon mal zusammen bringen. Wie man unten sehen kann. Was jetzt noch fehlt ist etwas, dass meine Interessen für Computer und Gaming darstellt. Für das Interresse an Computern packe ich alles in einen Bildschirm.
 
 ![Erste annäherung an das Logo.](logo_1.png)
+
+Also tat ich dies. Den Bildschirm zu gestalten war eine einfache angelegenheit. Als ich dann noch etwas zum Thema Gaming machen wollte, wusste ich zuerst nicht was genau ich machen will.
