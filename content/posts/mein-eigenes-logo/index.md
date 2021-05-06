@@ -9,7 +9,7 @@ description = "Ich Kreiere mein eigenes Logo und versuche dort meine Interessen 
 +++
 Heute begann ich damit, *meine eigenes Logo* zu kreieren. Zuerst musste ich mir überlegen, was in meinem Logo enthalten sein sollte. Also begann ich auf einem Papier zu Kritzeln und hatte dann 3 Themen, Anime, *Metal Musik* und Computer. nach langem hin und her, hatte ich dann eine skizze: 
 
-![Skizze](whatsapp-image-2021-05-05-at-17.15.47.jpeg)
+![Skizze. (Die Blauen ovale sollen Lichtreflektionen darstellen) ](whatsapp-image-2021-05-05-at-17.15.47.jpeg)
 
 Ich begann also damit, ein Kunai (Anime: Naruto) in Adobe Ilustrator zu kreieren die ging mehr oder weniger recht gut, und ich konnte dabei viel neues Lernen. Der Griff erinert dabei ganz bewusst an den Anime "Hunter x Hunter." 
 
