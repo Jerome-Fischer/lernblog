@@ -18,3 +18,7 @@ Ich begann also damit, ein Kunai (Anime: Naruto) in Adobe Ilustrator zu kreieren
 Danach wollte ich die Verzerte Note machen, die Stark an Metal Musik errinnern sollte. ich fand jedoch keine gute vorlage und selber brachte ich es auch nicht zu stande. dan etschied ich mich für eine eher simplere "Metal Hand". 
 
 ![Metal Hand](hand.png)
+
+Als ich dies geschafft hatte, wollte ich die beiden schon mal zusammen bringen. Wie Man unten sehen kann. was jetzt noch fehlt ist etwas, dass mein interresse für computer und gaming darstellt. Für das interresse an computern Packe ich alles in einen Bildschirm. Für den Gaming part, könnte ich noch etwas auf die rechte seite packen. vorzugsweise etwas im zusammenhang mit der Videospielreihe "Assassins Creed". 
+
+![Erste annäherung an das Logo.](logo_1.png)
