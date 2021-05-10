@@ -12,7 +12,7 @@ Bei meinem 3. Projekt hatte ich 2 vorgaben: \
 2: Nur 5 Bilder\
 Diese währen Die Sanduhr, Die Steinzeit, Die Burg Das Schiff und die Stadt.
 
-zuerst machte ich mir eine Vorstellung die nur halbwegs gut war:
+Zuerst machte ich mir eine Vorstellung die nur halbwegs gut war:
 
 ![Raw Version](the-time-raw-blog.jpg)
 
