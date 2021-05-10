@@ -23,4 +23,6 @@ Als ich dies geschafft hatte, wollte ich die beiden designs schon mal zusammen b
 
 ![Erste annäherung an das Logo.](logo_1.png)
 
-Also tat ich dies. Den Bildschirm zu gestalten war eine einfache angelegenheit. Als ich dann noch etwas zum Thema Gaming machen wollte, wusste ich zuerst nicht was genau ich machen will.
+Also tat ich dies. Den Bildschirm zu gestalten war eine einfache angelegenheit. Als ich dann noch etwas zum Thema Gaming machen wollte, wusste ich zuerst nicht was genau ich machen will. Und lies es schlieslich sein.
+
+![Logo](final.png)
