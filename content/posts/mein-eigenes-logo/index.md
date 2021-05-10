@@ -3,7 +3,7 @@ title = "Mein Eigenes Logo"
 date = "2021-05-05"
 draft = false
 pinned = true
-tags = ["Design", "Illustrator"]
+tags = ["Design", "Illustrator", "Projekt"]
 image = "logo_1.png"
 description = "Ich Kreiere mein eigenes Logo und versuche dort meine Interessen zusammen zu Fassen."
 +++
