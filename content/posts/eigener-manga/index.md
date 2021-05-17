@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = ["Projekt", "Krita", "Manga"]
 image = "fill_thumbnail.png"
-description = "Ich versuche mich daran einen eigenen Manga zu kreieren, der wahrscheinlich nur eine Seite haben wird. Teil 1: Sketch und Hauptcharakter."
+description = "Ich versuche mich daran einen eigenen Manga zu kreieren, der wahrscheinlich nur eine Seite haben wird.\nTeil 1: Sketch und Hauptcharakter."
 footnotes = "Krita (Komplett Gratis): https://krita.org/en/"
 +++
 Ich versuche mich daran einen eigenen Manga zu kreieren, der wahrscheinlich nur eine Seite haben wird. 
