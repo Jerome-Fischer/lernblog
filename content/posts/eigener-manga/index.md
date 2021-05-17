@@ -16,3 +16,7 @@ Ich versuche mich daran einen eigenen Manga zu kreieren, der wahrscheinlich nur 
 Ich hatte die Idee einen Manga zu machen schon etwas länger, aber dachte immer ich könne nicht genug gut zeichnen. dann aber dachte ich mit der Hilfe eines Wacom Bordes und dem Gratis Opensource Programm "Krita" (Link in Fußnote), sollte das schon gehen also fertigte ich in Krita ein Sketch Panel an. 
 
 ![Skizze erstes Panel](panel-1.png)
+
+Der Haupt Charakter sah bis dahin noch nicht so gut aus, also: Verpasste ich ihm ein Redesign Das Ergebnis Lässt sich schon Sehen:
+
+![]()
