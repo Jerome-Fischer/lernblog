@@ -12,3 +12,9 @@ Heute wollte ich mal das Animationstool von Krita ausprobieren. Zuerst schaute i
 ![Krita Benutzeroberfläche [Rot= vorherige Bilder. Grün=folgende Bilder]](krita_blog.png)
 
 Ich musste jedes Bild Einzel Zeichnen und Färben außer den Hintergrund.  als ich ihm dann auch noch Farbe gab, sah es dann gleich viel besser aus. Dann zeichnete ich noch ein Gesicht, dass ich immer mehr verziehen Konnte.
+
+jetzt ist es sehr amüsant es in Dauerschleife zu beobachten. 
+
+
+
+**dn Habe ich noch Prblemen da s G if zu Rendern**
