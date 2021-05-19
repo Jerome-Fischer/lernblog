@@ -17,4 +17,4 @@ jetzt ist es sehr amüsant es in Dauerschleife zu beobachten.
 
 
 
-**dn Habe ich noch Prblemen da s G if zu Rendern**
+**Gerade habe ich noch Probleme es als GIF zu rendern**
