@@ -7,15 +7,15 @@ tags = ["Photoshop", "Projekt"]
 image = "the-underwaters-thumbnail.jpg"
 description = "Mein Zweites Photoshop Bild: \"The Underwaters\""
 +++
-Nach meine ersten Bild wollte ich eines machen, bei welchem ich von Anfang an selber die Bilder wähle. Das wurden schließlich diese Bilder hier:
+Nach meine ersten Bild wollte ich eines machen, bei welchem ich von Anfang an selber die Bilder wähle. Dass wurden schließlich diese Bilder hier:
 
 ![Bilder: Pexels.com](whatsapp-image-2021-05-10-at-10.53.52.jpeg)
 
-Darauf folgend kreierte ich eine Grobe Anordnung der Bilder:
+Darauf folgend kreierte ich eine grobe Anordnung der Bilder:
 
 ![Grobe Vorstellung](whatsapp-image-2021-05-10-at-10.53.52-1-.jpeg)
 
-Die Letzten 4 Stunden habe ich in einer Timelaps zusammengeschnitten und diese dann auf YouTube hochgeladen.
+Die letzten 4 Stunden habe ich in einer Timelaps zusammengeschnitten und diese dann auf YouTube hochgeladen.
 
 <https://www.youtube.com/watch?v=2Fv_E0Lo5Jc>
 
