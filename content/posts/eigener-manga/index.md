@@ -17,6 +17,6 @@ Ich hatte die Idee einen Manga zu machen schon etwas länger, aber dachte immer 
 
 ![Skizze erstes Panel](panel-1.png)
 
-Der Haupt Charakter sah bis dahin noch nicht so gut aus, also: Verpasste ich ihm ein Redesign Das Ergebnis Lässt sich schon Sehen:
+Der Haupt Charakter sah bis dahin noch nicht so gut aus, also: Verpasste ich ihm ein Redesign Das Ergebnis lässt sich sehen:
 
-![]()
+![](fill-blog.png)
