@@ -4,7 +4,7 @@ date = "2021-05-19"
 draft = false
 pinned = false
 tags = ["Lernen", "Krita"]
-image = "frame0000.png"
+image = "krita_blog.png"
 description = "Ich Lernte in Krita Wie man Frame by Frame (Bild auf Bild) Animiert."
 +++
 Heute wollte ich mal das Animationstool von Krita ausprobieren. Zuerst schaute ich mir 2 Tutorial Videos auf Yt an, und dann versuchte ich (ohne Anleitung) einen Gummiball zu zeichnen und Animieren.
