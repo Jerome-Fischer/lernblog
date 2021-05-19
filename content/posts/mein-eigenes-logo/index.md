@@ -7,7 +7,7 @@ tags = ["Illustrator", "Projekt"]
 image = "logo_1.png"
 description = "Ich Kreiere mein eigenes Logo und versuche dort meine Interessen zusammen zu Fassen."
 +++
-Heute begann ich damit, *meine eigenes Logo* zu kreieren. Zuerst musste ich mir überlegen, was in meinem Logo enthalten sein sollte. Also begann ich auf einem Papier zu Kritzeln und hatte dann 3 Themen, Anime, *Metal Musik* und Computer/Videospiele. Nach langem hin und her, hatte ich dann eine Skizze: 
+Heute begann ich damit, *meine eigenes Logo* zu kreieren. Zuerst musste ich mir überlegen, was in meinem Logo enthalten sein sollte. Also begann ich auf einem Papier zu kritzeln und hatte dann 3 Themen, Anime, *Metal Musik* und Computer/Videospiele. Nach langem hin und her, hatte ich dann eine Skizze: 
 
 ![Skizze. (Die Blauen ovale sollen Lichtreflektionen darstellen) ](whatsapp-image-2021-05-05-at-17.15.47.jpeg)
 
@@ -23,6 +23,6 @@ Als ich dies geschafft hatte, wollte ich die beiden Designs schon mal zusammen b
 
 ![Erste annäherung an das Logo.](logo_1.png)
 
-Also tat ich dies. Den Bildschirm zu gestalten war eine einfache Angelegenheit. Als ich dann noch etwas zum Thema Gaming machen wollte, wusste ich zuerst nicht was genau ich machen will. Und lies es schliesslich sein.
+Also tat ich dies. Den Bildschirm zu gestalten war eine einfache Angelegenheit. Als ich dann noch etwas zum Thema Gaming machen wollte, wusste ich zuerst nicht was genau ich machen will. Und lies es schließlich sein.
 
 ![Logo](final.png)
