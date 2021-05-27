@@ -4,7 +4,7 @@ date = "2021-05-27"
 draft = false
 pinned = false
 tags = ["Projekt", "Construct3", "Lernen"]
-image = "thumbnail.png"
+image = "bild_2021-05-27_110004.png"
 description = "Ich versuche ein eigenes \"Beat em Up\" Game zu erstellen."
 footnotes = "construct.net"
 +++
@@ -15,3 +15,9 @@ Ich wollte schon sehr Lange ein eigene Game erstellen. Da ich ziemlich faul bin 
 Dazu musste ich Noch eine sogenannte Hit Box um den Charakter legen, das ist dann die form in welcher der Computer den Charakter sieht. Also eigentlich die "wahre" Form des Charakter, hinter dem Skin.
 
 ![Die Orangen Punkte sind die Eckpunkte des Hit Box Gitternetzes. Die Bilder unten sind die Schlag Animation.](hitbox.png)
+
+Darauf folgend kopierte ich den Charakter und färbte ihn Weiß Für den zweiten Spieler.
+
+![Ich gestaltete noch eine Landschaft und setzte ein vorläufiges Hintergrund Bild ein.]()
+
+Dann ging es ans Skript, Also an die Funktionen. Dass Heißt, dort sage ich was passiert wenn ich welche Taste drücke.
