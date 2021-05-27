@@ -14,4 +14,4 @@ Ich wollte schon sehr Lange ein eigene Game erstellen. Da ich ziemlich faul bin 
 
 Dazu musste ich Noch eine sogenannte Hit Box um den Charakter legen, das ist dann die form in welcher der Computer den Charakter sieht. Also eigentlich die "wahre" Form des Charakter, hinter dem Skin.
 
-![Die Punkte sind die Eckpunkte des Hit Box Gitternetzes. Die Bilder unten sind die Schlag Animation.](hitbox.png)
+![Die Orangen Punkte sind die Eckpunkte des Hit Box Gitternetzes. Die Bilder unten sind die Schlag Animation.](hitbox.png)
