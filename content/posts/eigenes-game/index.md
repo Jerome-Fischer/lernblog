@@ -6,5 +6,6 @@ pinned = false
 tags = ["Projekt", "Construct3", "Lernen"]
 image = "thumbnail.png"
 description = "Ich versuche ein eigenes \"Beat em Up\" Game zu erstellen."
+footnotes = "construct.net"
 +++
 Placeholder...
