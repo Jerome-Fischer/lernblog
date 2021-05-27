@@ -12,6 +12,6 @@ Ich wollte schon sehr Lange ein eigene Game erstellen. Da ich ziemlich faul bin 
 
 ![Alle Animationsframes (Eigentlich nur Place Holders)](player-sheet0.png)
 
+Dazu musste ich Noch eine sogenannte Hit Box um den Charakter legen, das ist dann die form in welcher der Computer den Charakter sieht. Also eigentlich die "wahre" Form des Charakter, hinter dem Skin.
 
-
-![](hitbox.png)
+![Die Punkte sind die Eckpunkte des Hit Box Gitternetzes.](hitbox.png)
