@@ -18,8 +18,8 @@ Dazu musste ich Noch eine sogenannte Hit Box um den Charakter legen, das ist dan
 
 Darauf folgend kopierte ich den Charakter und färbte ihn Weiß Für den zweiten Spieler.
 
-![Ich gestaltete noch eine Landschaft und setzte ein vorläufiges Hintergrund Bild ein.]()
+![Ich gestaltete noch eine Landschaft und setzte ein vorläufiges Hintergrund Bild ein.](screenshot-2021-05-27-110953.png)
 
 Dann ging es ans Skript, Also an die Funktionen. Dass heißt, dort sage ich was passiert wenn ich welche Taste drücke. Im Endeffekt Emuliere ich mit WASD die Pfeiltasten. wie man im unteren Bild sehen kann benötigte ich Keinen Code sondern konnte einfach die Funktionen auswählen. Z.B "Wenn ich D drücke dann bewege dich nach rechts, schaue nach rechts und spiele die gehen Animation ab." 
 
-![Das ganze Skript für einen Charakter.]()
+![Das ganze Skript für einen Charakter.](skript.png)
