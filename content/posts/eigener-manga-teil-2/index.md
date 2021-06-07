@@ -9,4 +9,8 @@ description = "Ein kurzes Zwischenupdate zum Thema eigener Manga."
 +++
 Ein kurzes Zwischenupdate zum Thema eigener Manga.
 
-![](teil2.png)
+
+
+Dies ist der momentane Stand meines ersten Manga Panels. Es geht viel länger als ich gedacht habe. 
+
+![Derzeitiger Stand](teil2.png)
