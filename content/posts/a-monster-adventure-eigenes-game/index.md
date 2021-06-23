@@ -1,7 +1,7 @@
 +++
 title = "A Monster Adventure (eigenes Game)"
 date = "2021-06-07"
-draft = true
+draft = false
 pinned = false
 tags = ["Projekt", "Construct3", "Lernen"]
 image = "ama-thumbnail_small.png"
