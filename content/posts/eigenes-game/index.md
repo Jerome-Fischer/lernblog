@@ -12,18 +12,18 @@ Ich wollte schon sehr Lange ein eigene Game erstellen. Da ich ziemlich faul bin 
 
 ![Alle Animationsframes (Eigentlich nur Place Holders)](player-sheet0.png)
 
-Dazu musste ich Noch eine sogenannte Hit Box um den Charakter legen, das ist dann die form in welcher der Computer den Charakter sieht. Also eigentlich die "wahre" Form des Charakter, hinter dem Skin.
+Dazu musste ich noch eine sogenannte Hit Box um den Charakter legen, das ist dann die Form, in welcher der Computer den Charakter sieht. Also eigentlich die "wahre" Form des Charakter, hinter dem Skin.
 
 ![Die Orangen Punkte sind die Eckpunkte des Hit Box Gitternetzes. Die Bilder unten sind die Schlag Animation.](hitbox.png)
 
-Darauf folgend kopierte ich den Charakter und färbte ihn Weiß Für den zweiten Spieler.
+Darauf folgend kopierte ich den Charakter und färbte ihn Weiß für den zweiten Spieler.
 
 ![Ich gestaltete noch eine Landschaft und setzte ein vorläufiges Hintergrund Bild ein.](screenshot-2021-05-27-110953.png)
 
-Dann ging es ans Skript, Also an die Funktionen. Dass heißt, dort sage ich was passiert wenn ich welche Taste drücke. Im Endeffekt Emuliere ich mit WASD die Pfeiltasten. wie man im unteren Bild sehen kann benötigte ich Keinen Code sondern konnte einfach die Funktionen auswählen. Z.B "Wenn ich D drücke dann bewege dich nach rechts, schaue nach rechts und spiele die gehen Animation ab." 
+Dann ging es ans Skript, also an die Funktionen. Dass heißt, dort sage ich was passiert wenn ich welche Taste drücke. Im Endeffekt Emuliere ich mit WASD die Pfeiltasten. Wie man im unteren Bild sehen kann benötigte ich keinen Code sondern konnte einfach die Funktionen auswählen. Z.B "Wenn ich D drücke dann bewege dich nach rechts, schaue nach rechts und spiele die gehen Animation ab." 
 
 ![Das ganze Skript für einen Charakter.](skript.png)
 
-Danach begann ich einzuprogrammieren das bei einem Treffer schaden zugefügt wird. dazu hab ich die Health bar selber gezeichnet und dass mit 17 Stufen, mit dem ziel das man 17 Schläge braucht um den Gegner zu Besiegen. das erste Problem war das bei einem schlag beide gleich viel schaden nahmen. Da fand ich den Fehler im Skript und merzte ihn aus. Beim Test aber Funktionierte es immer noch nicht. ich merkte dass die Rechte Health Bar durchs kopieren der Linken mit der verknüpft war. also musste ich eine neue Instanz machen, und dann die 17 Frames, Frame by Frame kopieren und einfügen. Als dann diese Funktion funktionierte, fiel mir auf dass man nur etwa 7-9 Schläge benötigte um den Gegner zu Besiegen. 
+Danach begann ich einzuprogrammieren dass bei einem Treffer Schaden zugefügt wird. Dazu hab ich die Health bar selber gezeichnet und dass mit 17 Stufen, mit dem ziel das man 17 Schläge braucht um den Gegner zu Besiegen. Das erste Problem war das bei einem schlag beide gleich viel Schaden nahmen. Da fand ich den Fehler im Skript und merzte ihn aus. Beim Test aber, Funktionierte es immer noch nicht. Ich merkte, dass die rechte Health Bar durchs kopieren der Linken mit der verknüpft war. Also musste ich eine neue Instanz machen, und dann die 17 Frames, Frame by Frame kopieren und einfügen. Als dann diese Funktion funktionierte, fiel mir auf dass man nur etwa 6-9 Schläge benötigte um den Gegner zu Besiegen. 
 
 Dagegen habe ich noch keine Lösung gefunden.
