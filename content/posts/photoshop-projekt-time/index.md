@@ -10,9 +10,9 @@ description = "Bei meinem Dritten Projekt hatte ich Zwei vorgaben: \n1.Thema Zei
 Bei meinem 3. Projekt hatte ich 2 Vorgaben: \
 1: Thema Zeit \
 2: Nur 5 Bilder\
-Diese währen: die Sanduhr, die Steinzeit, die Burg, das Schiff und die Stadt.
+Diese wären: die Sanduhr, die Steinzeit, die Burg, das Schiff und die Stadt.
 
-Zuerst machte ich mir eine Vorstellung die nur halbwegs gut war:
+Zuerst machte ich mir eine Vorstellung, die nur halbwegs gut war:
 
 ![Raw Version](the-time-raw-blog.jpg)
 
