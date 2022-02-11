@@ -1,5 +1,5 @@
 +++
-title = "A Monster Adventure (eigenes Game)"
+title = "(WORK IN PROGRESS) A Monster Adventure"
 date = "2021-06-07"
 draft = false
 pinned = false
